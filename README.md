@@ -1,4 +1,5 @@
 # 01---JavaScript-Drum-Kit
+This is day one of [#JavaScript30 challenge](https://javascript30.com/)
 ![ScreenShot](screenshot/JS_drumkit_ss.png)
 
 Created this awesome Drum Kit using HTML, CSS, and JS. 
