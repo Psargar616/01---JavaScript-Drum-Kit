@@ -1,4 +1,5 @@
 # 01---JavaScript-Drum-Kit
+![ScreenShot](screenshot/JS_drumkit_ss.png)
 
 Created this awesome Drum Kit using HTML, CSS, and JS. 
 
